@@ -1,6 +1,6 @@
   #write python program to find common letters between two strings
 
-def common_letters(a,b):
+def common_letters(a,b):  
     s1=set(a)
     s2=set(b)
     print("deleting duplicates: s1= ",s1)
