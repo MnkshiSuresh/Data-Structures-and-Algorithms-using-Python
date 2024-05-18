@@ -1,4 +1,4 @@
-#write python program to find frequency if letters apppearing in a string
+'''write python program to find frequency if letters apppearing in a string'''
 
 def frequency(s1):
     
