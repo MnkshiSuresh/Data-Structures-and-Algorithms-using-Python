@@ -1,4 +1,4 @@
-#convert 2 lists into dictionary
+'''convert 2 lists into dictionary'''
 
 s1=input("enter the first list with a space gap: ")
 s2=input("enter the second list with a space gap")
