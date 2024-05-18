@@ -1,4 +1,4 @@
-#Pairs with given sum value
+'''Pairs with given sum value'''
 
 num = int(input("enter the no of elemets in array: "))
 array = []
