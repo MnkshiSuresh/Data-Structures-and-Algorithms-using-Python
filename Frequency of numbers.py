@@ -1,4 +1,4 @@
-# count the frequency of numbers inn the string
+'''count the frequency of numbers inn the string'''
 
 def count_nos(s1):
     s1=str(s1)
