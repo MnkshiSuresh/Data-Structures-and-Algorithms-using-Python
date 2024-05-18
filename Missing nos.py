@@ -1,4 +1,4 @@
-# find missing number in an array
+''' find missing number in an array'''
 
 num = input("enter list of numbers with a space gap: ")
 n = []
