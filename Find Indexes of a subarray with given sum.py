@@ -2,7 +2,7 @@
 
 In case of multiple subarrays, return the subarray indexes which come first on moving from left to right.
 
-Note:- You have to return an ArrayList consisting of two elements left and right. In case no such subarray exists return an array consisting of element -1.'''
+Note:- You have to return an ArrayList consisting of two elements left and right. In case no such subarray exists return an array consisting of element -1.
 
 Example 1:
 
@@ -21,7 +21,7 @@ A[] = {1,2,3,4,5,6,7,8,9,10}
 Output: 1 5
 Explanation: The sum of elements 
 from 1st position to 5th position
-is 15.
+is 15.'''
 
 ------------------------------------------------------------------------------------
 class Solution:
