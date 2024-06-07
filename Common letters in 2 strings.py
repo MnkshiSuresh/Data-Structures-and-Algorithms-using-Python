@@ -1,4 +1,4 @@
-       '''write python program to find common letters between two strings'''
+'''write python program to find common letters between two strings'''
 
 def common_letters(a,b):  
     s1=set(a)
